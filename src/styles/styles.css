@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+a{
+    textdecoration: none;
+}
+
+.twitter{
+    display: none;
+    max-width: 1400px;
+    margin: 0 auto;
+}
